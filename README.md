@@ -4,6 +4,14 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 
 Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
 
+![vite](img/vite.png)
+
+**Vite** — это современный инструмент для сборки фронтенд-проектов, разработанный для повышения скорости и улучшения опыта разработки.
+
+**Название "Vite" (произносится как "вит") на французском языке означает "быстро".**
+
+**Основная цель Vite** — обеспечить высокую скорость сборки и перезагрузки на этапах разработки, особенно для крупных проектов. **Он был создан создателем Vue.js, Эваном Ю.**
+
 ### Создание проекта на Vite
 
 1. **Откройте терминал или командную строку.**
